@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='OldMethod'/>
+        <page name='Codable'/>
+        <page name='CategoryParsing'/>
+        <page name='CategorysnakeCase'/>
+        <page name='CategoryCodingKeys'/>
+        <page name='CategoryArray'/>
+        <page name='KeyedCategory'/>
+        <page name='CategoryDecoder'/>
+        <page name='CategoryContainer'/>
+        <page name='Restaurant'/>
+        <page name='Extra'/>
+    </pages>
+</playground>
