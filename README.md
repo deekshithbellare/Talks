@@ -2,6 +2,10 @@
 A repo with the talks I've given at conferences
 
 ---
+## Build powerful apps that empower everyone - Accessibility
+
+Swift Developers Meetup @Hotstar \
+Saturday, Oct 6, 2018
 
 
 ## Opensource, Git and Github
