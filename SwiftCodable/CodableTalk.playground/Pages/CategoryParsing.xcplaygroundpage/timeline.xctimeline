@@ -3,11 +3,7 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-<<<<<<< HEAD
-         documentLocation = "file:///Volumes/Extra/Talk/SwiftCodable/CodableTalk.playground/Pages/CategoryParsing.xcplaygroundpage#CharacterRangeLen=8&amp;CharacterRangeLoc=713&amp;EndingColumnNumber=13&amp;EndingLineNumber=19&amp;StartingColumnNumber=5&amp;StartingLineNumber=19&amp;Timestamp=548489102.876575"
-=======
-         documentLocation = "file:///Users/deekshithbellare/Desktop/SwiftCodable/CodableTalk.playground/Pages/CategoryParsing.xcplaygroundpage#CharacterRangeLen=0&amp;CharacterRangeLoc=416&amp;EndingColumnNumber=0&amp;EndingLineNumber=22&amp;StartingColumnNumber=0&amp;StartingLineNumber=22&amp;Timestamp=548415748.625074"
->>>>>>> f841d59c6d35ab6cd57a4ed8563dd26ec8e97d76
+         documentLocation = "file:///Users/deekshithbellare/Desktop/Swift/CodableTalk.playground/Pages/CategoryParsing.xcplaygroundpage#CharacterRangeLen=8&amp;CharacterRangeLoc=562&amp;EndingColumnNumber=13&amp;EndingLineNumber=20&amp;StartingColumnNumber=5&amp;StartingLineNumber=20&amp;Timestamp=548505686.73287"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

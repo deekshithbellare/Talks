@@ -1,6 +1,7 @@
 //: [Previous](@previous)
 
 import Foundation
+//it's common practice to group the json using keys. In this case, array of categories is inside key 'categories'
 let data = """
 {
 "categories" :[
@@ -15,6 +16,7 @@ let data = """
 ]
 }
 """.data(using:.utf8)!
+
 struct Category:Codable {
     var id:String?
     var name:String?
@@ -25,19 +27,15 @@ struct Category:Codable {
     }
 }
 
-
 let decoder = JSONDecoder()
-//keyedCategories
+//Decode dictionary where the key is string and value is the array of categories
 let keyedCategories = try? decoder.decode([String:[Category]].self, from: data)
 let category = keyedCategories!["categories"]
-//get categories
 
-//DefineStruct-ries
-//SRIES
-struct Categories:Codable
-{
+//Another way is to create a container class called categories
+struct Categories:Codable {
     var categories:[Category]?
 }
-let keyedCategories2 = try? decoder.decode(Categories.self, from: data)
 
+let categoriesStruct = try? decoder.decode(Categories.self, from: data)
 //: [Next](@next)

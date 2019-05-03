@@ -18,5 +18,6 @@ struct Category:Decodable {
 let decoder = JSONDecoder()
 decoder.keyDecodingStrategy = .convertFromSnakeCase
 let category = try? decoder.decode(Category.self, from: data)
-//KeyDecS - SC
+
 //: [Next](@next)
+
