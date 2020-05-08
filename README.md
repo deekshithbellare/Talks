@@ -2,6 +2,11 @@
 A repo with the talks I've given at conferences
 
 ---
+## Swift Strings
+
+Paytm\
+Thursday, May 2nd, 2019
+
 ## Build powerful apps that empower everyone - Accessibility
 
 Swift Developers Meetup @Hotstar \
